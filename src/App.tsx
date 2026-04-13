@@ -3,17 +3,17 @@ export default function App() {
     {
       title: "Outpatient Orthopedic Physical Therapy",
       description:
-        "Evidence-based rehabilitation for orthopedic injuries, post-operative recovery, mobility limitations, tendinopathies, and spine-related conditions.",
+        "Evidence based rehabilitation for orthopedic injuries, post operative recovery, mobility limitations, tendinopathies, and spine related conditions.",
     },
     {
-      title: "Runner-Specific Injury Rehabilitation",
+      title: "Runner Specific Injury Rehabilitation",
       description:
-        "Specialized evaluations and treatment plans for common running injuries, mileage progression guidance, and structured return-to-run programming.",
+        "Specialized evaluations and treatment plans for common running injuries, mileage progression guidance, and structured return to run programming.",
     },
     {
       title: "Running Gait & Movement Analysis",
       description:
-        "Video-based gait analysis to assess stride mechanics, cadence, loading patterns, and biomechanical contributors to injury and performance limitations.",
+        "Video based gait analysis to assess stride mechanics, cadence, loading patterns, and biomechanical contributors to injury and performance limitations.",
     },
     {
       title: "Performance & Strength Training",
@@ -28,14 +28,14 @@ export default function App() {
     {
       title: "Injury Prevention & Wellness",
       description:
-        "Preventive screening, movement assessments, home exercise programming, and education focused on helping runners stay healthy long-term.",
+        "Preventive screening, movement assessments, home exercise programming, and education focused on helping runners stay healthy long term.",
     },
   ];
 
   const team = [
     {
       role: "Chief Executive Officer (CEO)",
-      text: "Oversees clinic vision, strategic planning, community partnerships, and long-term growth while also providing evaluations, re-evaluations, and treatment.",
+      text: "Oversees clinic vision, strategic planning, community partnerships, and long term growth while also providing evaluations, re-evaluations, and treatment.",
     },
     {
       role: "Chief Financial Officer (CFO)",
@@ -75,7 +75,7 @@ export default function App() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <div>
             <div className="text-2xl font-bold tracking-tight">STRIDE Physical Therapy</div>
-            <div className="text-sm text-neutral-600">Runner-Focused Physical Therapy in El Paso</div>
+            <div className="text-sm text-neutral-600">Runner Focused Physical Therapy in El Paso</div>
           </div>
           <nav className="hidden gap-6 text-sm font-medium md:flex">
             <a href="#about" className="hover:text-neutral-600">About</a>
@@ -98,7 +98,7 @@ export default function App() {
             </h1>
             <p className="mt-6 max-w-xl text-lg text-white/80">
               STRIDE Physical Therapy combines expert rehabilitation, gait analysis,
-              strength training, mobility work, and return-to-run programming to help
+              strength training, mobility work, and return to run programming to help
               runners recover faster, prevent injury, and perform at their best.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
@@ -130,9 +130,9 @@ export default function App() {
             </div>
             <div className="rounded-3xl bg-white/10 p-6 shadow-2xl backdrop-blur sm:col-span-2">
               <div className="text-sm uppercase tracking-[0.2em] text-white/70">Why STRIDE</div>
-              <div className="mt-2 text-xl font-semibold">Runner-focused rehab + performance</div>
+              <div className="mt-2 text-xl font-semibold">Runner Focused rehab + performance</div>
               <div className="mt-2 text-white/80">
-                Specialized orthopedic care, video gait analysis, return-to-run
+                Specialized orthopedic care, video gait analysis, return to run
                 programming, and performance services designed around the needs of runners.
               </div>
             </div>
@@ -154,9 +154,9 @@ export default function App() {
             </p>
             <p className="mt-4 text-lg leading-8 text-neutral-700">
               Our mission is to empower runners of all levels to move efficiently,
-              recover confidently, and run pain-free. We believe that rehabilitation
-              should not stop at reducing pain—it should build resilience, restore
-              confidence, and support long-term performance.
+              recover confidently, and run pain free. We believe that rehabilitation
+              should not stop at reducing pain. It should build resilience, restore
+              confidence, and support long term performance.
             </p>
           </div>
           <div className="rounded-3xl border border-neutral-200 bg-white p-8 shadow-sm">
@@ -177,7 +177,7 @@ export default function App() {
           <div className="max-w-3xl">
             <h2 className="text-3xl font-bold md:text-4xl">Services</h2>
             <p className="mt-4 text-lg text-neutral-700">
-              We provide orthopedic rehabilitation and performance-focused services
+              We provide orthopedic rehabilitation and performance focused services
               designed to help runners return stronger, move better, and stay healthy.
             </p>
           </div>
@@ -196,11 +196,11 @@ export default function App() {
         <div className="grid gap-6 rounded-[2rem] bg-neutral-900 p-8 text-white md:grid-cols-3">
           <div>
             <div className="text-4xl font-bold">1:1</div>
-            <div className="mt-2 text-white/75">Individualized, evidence-based care</div>
+            <div className="mt-2 text-white/75">Individualized, evidence based care</div>
           </div>
           <div>
             <div className="text-4xl font-bold">Runner</div>
-            <div className="mt-2 text-white/75">Focused evaluations and return-to-run planning</div>
+            <div className="mt-2 text-white/75">Focused evaluations and return to run planning</div>
           </div>
           <div>
             <div className="text-4xl font-bold">El Paso</div>
