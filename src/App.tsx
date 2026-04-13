@@ -94,7 +94,7 @@ export default function App() {
               Specialized Care for Runners & Active Individuals
             </span>
             <h1 className="text-4xl font-bold leading-tight md:text-6xl">
-              Move Efficiently. Recover Confidently. Run Pain-Free.
+              Move Efficiently. Recover Confidently. Run Pain Free.
             </h1>
             <p className="mt-6 max-w-xl text-lg text-white/80">
               STRIDE Physical Therapy combines expert rehabilitation, gait analysis,
